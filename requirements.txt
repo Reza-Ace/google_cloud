@@ -1,4 +1,6 @@
 flask
 tensorflow
-librosa
 numpy
+soundfile
+librosa
+gunicorn
